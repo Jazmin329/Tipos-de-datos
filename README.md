@@ -1,4 +1,5 @@
 # Tipos-de-datos
+programa de clase 
 ```# Fecha: 2024/10/14
 # Elaborado por: Jazmin Macias Sabas 
 # Programa que imprime distintos tipos de datos
